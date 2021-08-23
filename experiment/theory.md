@@ -4,7 +4,8 @@
 The voltage clamp technique was used by Hodgkin and Huxley to determine the behavior of the ionic conductances responsible for the generation of the action potential. The basic circuit for the squid axon is shown below.
 
  
-
+&nbsp;
+<center><img src="images/vc1.jpg" title="" /></center> 
  
 
 The voltage clamp apparatus consists of a Feedback Amplifier, a Voltage Amplifier, and an Ammeter. The Voltage Amplifier is connected to a Voltage Electrode implanted inside the neuronal membrane, and to the Feedback Amplifier. The Feedback Amplifier is connected to a Current Electrode (C. E.). Finally, a Ground Electrode completes the feedback and voltage circuits through an ammeter to ground.
