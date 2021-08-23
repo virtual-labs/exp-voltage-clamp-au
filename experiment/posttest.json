@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Voltage clamp is a technique for study of: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ion channel properties in excitable neurons",
+        "b": "Size of neuron",
+        "c": "Selecting a unique neuron",
+        "d": "Estimating size of synaptic potential"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which of the following is maintained while doing a voltage clamp ? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ionic conductance",
+        "b": "Current level",
+        "c": "Voltage level",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+
+    {
+      "question": "3. What is not known as a part of the voltage clamp apparatus ? ",
+      "answers": {
+        "a": "Neuron",
+        "b": "Feedback amplifier",
+        "c": "Voltage amplifier",
+        "d": "Ammeter"
       },
+
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. What physical law does the feedback amplifier use ? ",
+      "answers": {
+        "a": "Kirchoff's current law",
+        "b": "Moore's law",
+        "c": "Murphy's law",
+        "d": "Ohm's law"
+      },
+
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+ 
+
+    {
+      "question": "5. What is the units of membrane voltage ? ",
+      "answers": {
+        "a": "milli Volts",
+        "b": "kilo Volts",
+        "c": "Volts",
+        "d": "pico Ampere"
+      },
+
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+
+
+
+
+
   ]
 }
