@@ -4,7 +4,7 @@
 
 * By default the simulator window will be in current clamp mode, for every reset the mode will reset to current clamp. For studying voltage clamp, access the voltage clamp mode by clicking the drop down list Run control menu and select Voltage clamp. 
 
-<center><img src="images/1.jpg" title="" /></center>
+<img src="images/1.jpg" title="" />
 
 &nbsp;
 
@@ -24,7 +24,7 @@ T = Temperature (0C)
 F= Frequency (Hz)
  
 
-<center><img src="images/2.jpg" title="" /></center>
+<img src="images/2.jpg" title="" />
 &nbsp;
 
 &nbsp;
@@ -35,20 +35,20 @@ gK= Conductance of Potassium ions
 
 gCl= Conductance of Chloride ions
 
-<center><img src="images/3.jpg" title="" /></center>
+<img src="images/3.jpg" title="" />
 
 &nbsp;
 
 Membrane window provides accesses to internal and external ionic concentration (Sodium, chloride and potassium) and membrane properties.
 
-<center><img src="images/4.jpg" title="" /></center>
+<img src="images/4.jpg" title="" />
 
 &nbsp;
 
 Drug window helps to study the pharmacological effect in neuronal membrane by the application of three drugs TTX (Inhibit Na current), TEA (Inhibit K current), Pronase (eliminate Na+ inactivation).Drugs can be applied at any point of time. 
 
 
-<center><img src="images/5.jpg" title="" /></center>
+<img src="images/5.jpg" title="" />
 &nbsp;
 
 &nbsp;
@@ -57,8 +57,7 @@ Input parameters are different voltages applied to simulate HH neuron models for
 
 
 
-<center><img src="images/6.jpg" title="" /></center>
-
+<img src="images/6.jpg" title="" />
 &nbsp;
 
 Click on run button to execute simulator. 
@@ -68,7 +67,7 @@ Click on run button to execute simulator.
 The resulting plot indicates the total ionic current in response to the applied voltage. 
 
 
-<center><img src="images/7.jpg" title="" /></center>
+<img src="images/7.jpg" title="" />
 
 &nbsp;
 &nbsp;
@@ -76,7 +75,7 @@ The resulting plot indicates the total ionic current in response to the applied 
 To study the pharmacological activities using TTX and TEA on voltage clamp, user can provide specific drug concentration in the boxes. For example give 30% concentration of TEA and 17% concentration of TTX. Observe the change in the total current plotted. 
 
 
-<center><img src="images/8.jpg" title="" /></center>
+<img src="images/8.jpg" title="" />
 
 &nbsp;
 &nbsp;
