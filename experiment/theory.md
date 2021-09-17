@@ -1,4 +1,4 @@
-## Voltage Clamp protocol:
+### Voltage Clamp protocol:
  
 
 The voltage clamp technique was used by Hodgkin and Huxley to determine the behavior of the ionic conductances responsible for the generation of the action potential. The basic circuit for the squid axon is shown below.
